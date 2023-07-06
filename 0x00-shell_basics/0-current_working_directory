@@ -1,0 +1,7 @@
+#!/bin/bash
+
+#My first script
+
+cwd=$(pwd)
+
+echo "$cwd"
